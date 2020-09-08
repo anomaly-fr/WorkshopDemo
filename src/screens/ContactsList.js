@@ -14,7 +14,7 @@ const ContactsList = (props) => {
     },
     {
         name: 'Person 2',
-       number: '8548080255',
+       number: '7022242623',
         colour: 'green'
     },
     {
